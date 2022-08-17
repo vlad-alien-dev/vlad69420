@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vlad69420
 - 👀 I’m interested in C# and crypto
-- 🌱 I’m currently learning Unity and Smart Contracrs
+- 🌱 I’m currently learning Unity and Smart Contracts
 <!--- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 --->
